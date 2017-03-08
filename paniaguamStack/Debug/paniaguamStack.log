@@ -1,0 +1,7 @@
+﻿  test.cpp
+h:\co_sci_836\paniaguamstack\paniaguamstack\test.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  cstack.cpp
+  Generating Code...
+h:\co_sci_836\paniaguamstack\paniaguamstack\test.cpp(116): warning C4715: 'isValidExpression': not all control paths return a value
+  paniaguamStack.vcxproj -> H:\co_sci_836\paniaguamStack\Debug\paniaguamStack.exe
+  paniaguamStack.vcxproj -> H:\co_sci_836\paniaguamStack\Debug\paniaguamStack.pdb (Partial PDB)
